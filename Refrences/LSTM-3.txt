@@ -1,0 +1,11 @@
+Raghul Venkateswaran, Divyadharshini Venkateswaran, Woosuk Choi, Yongyun Cho, Jae Hoon Jeong,
+Hybrid CEEMDAN–Transformer–LSTM Framework for enhanced multi-horizon wind speed forecasting,
+Journal of Wind Engineering and Industrial Aerodynamics,
+Volume 272,
+2026,
+106408,
+ISSN 0167-6105,
+https://doi.org/10.1016/j.jweia.2026.106408.
+(https://www.sciencedirect.com/science/article/pii/S0167610526000772)
+Abstract: The chaotic and multi-scale nature of wind speed poses a significant challenge for accurate long-term forecasting, which is crucial for efficient wind energy integration and grid reliability. This study proposes a novel hybrid deep learning framework combining Complete Ensemble Empirical Mode Decomposition with Adaptive Noise (CEEMDAN), Transformer-based multi-head self-attention, and Long Short-Term Memory (LSTM) networks. CEEMDAN decomposes raw wind speed data into Intrinsic Mode Functions (IMFs), effectively reducing noise and isolating important temporal features. These decomposed components, along with additional meteorological variables, are used as inputs to the hybrid model. Transformer layers capture long-range temporal dependencies, while LSTM layers learn sequential and contextual patterns. The proposed hybrid model is evaluated on real wind farm data across four forecasting horizons: 1-hour, 2-hour, 3-hour, and 6-hour ahead. Its performance is compared with several widely used forecasting approaches, including LSTM, Attention-based LSTM, Dual-Stage Attention RNN, CNN-LSTM, CEEMDAN-LSTM, Transformer-LSTM, CEEMDAN-Transformer, and VMD-Transformer-LSTM. The results show that the proposed model consistently provides the most accurate forecasts across all horizons. For the 1-hour-ahead case, it achieves an MAE of 0.2290 and an R2 of 0.9835, demonstrating a clear improvement over all baseline methods. The model maintains strong performance at longer horizons as well, with reduced error accumulation compared to the existing approaches.
+Keywords: CEEMDAN; Transformer networks; LSTM; Hybrid model; Time series analysis; Wind speed forecasting; Real-world data

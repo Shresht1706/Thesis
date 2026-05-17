@@ -1,0 +1,11 @@
+Mingping Liu, Jialong Wang, Suhui Deng, Chunxiao Zhong, Yuhao Wang,
+Short-term load probabilistic forecasting based on non-equidistant monotone composite quantile regression and improved MICN,
+Energy,
+Volume 320,
+2025,
+135339,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2025.135339.
+(https://www.sciencedirect.com/science/article/pii/S0360544225009818)
+Abstract: Improving the accuracy and reliability of short-term load probabilistic forecasting is significance of ensuring the stable operation of global energy systems. Although traditional monotone composite quantile regression effectively addresses the quantile crossing issue, it struggles with low coverage of prediction intervals and unreliable probability density curves due to equidistant increments in the conditional quantiles. To overcome this limitiation, this paper proposes a non-equidistant monotone composite quantile regression method for short-term load probabilistic forecasting. An optimized quantile increments function is developed, based on the assumption that the probability density curve follows a Gaussian distribution. Additionally, the accuracy of probability density forecasting depends on the median of the network output. Therefore, this paper introduces an improved multi-scale isometric convolution network (iMICN) to comprehensively extract feature information from load data. The iMICN model integrates Temporal two-dimensional (2D) variational modeling (TimesNet), feed forward network, and bidirectional long short-term memory (BiLSTM). TimeNet transforms one-dimensional time series into 2D space, utilizing 2D convolutions to deeply explore cyclic features in the seasonal components. BiLSTM further enhances the extraction of long-term dependencies by capturing dependencies between past and future information at a given time point. The superior performance of the proposed model is validated using two real-world datasets, demonstrating its ability to improve power system reliability, reduce energy waste, and contribute to achieving global renewable energy goals.
+Keywords: Global energy systems; Probabilistic forecasting; Non-equidistant monotone composite quantile regression; Gaussian distribution

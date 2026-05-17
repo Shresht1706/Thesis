@@ -1,0 +1,11 @@
+Wenjun Zhou, Weicheng Luo, Liang Gong, Bo Peng,
+Enhanced early diagnosis of Alzheimer’s disease with HybridCA-Net: A multimodal fusion approach,
+Expert Systems with Applications,
+Volume 292,
+2025,
+128580,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2025.128580.
+(https://www.sciencedirect.com/science/article/pii/S0957417425021992)
+Abstract: Multimodal neuroimaging offers essential complementary information for the accurate early diagnosis of Alzheimer’s disease (AD). However, the inherent variability among different neuroimaging modalities poses challenges to the effective fusion of multimodal features. Additionally, achieving reliable and interpretable diagnoses in multimodal fusion remains difficult. To address these challenges, we propose a novel diagnostic network based on multimodal and contrastive learning, termed HybridCA-Net. This model integrates multimodal contrastive learning and cross-modal attention mechanisms to diagnose AD. The multimodal contrastive learning mechanism enhances the model’s ability to understand complex intra- and inter-modal relationships, thereby uncovering deeper feature associations. Meanwhile, the cross-modal attention module highlights the most relevant features for the task while reducing the influence of irrelevant information. Furthermore, we design a light-weight recovery block that can be inserted to a trained model to handle different modality-missing sce-narios. We evaluated the HybridCA-Net model using two imaging modalities (sMRI and fMRI) from the ADNI database. This method is tested on ADNI data sets, and the classification accuracy is over 90%, which is better than the existing methods. For details, see the code at https://github.com/Luo-Star/HybridCA-Net/tree/main.
+Keywords: Alzheimer’s disease diagnosis; 3D multimodal fusion network; sMRI; fMRI

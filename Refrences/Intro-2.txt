@@ -1,0 +1,11 @@
+MDPI and ACS Style
+Geng, G.; He, Y.; Zhang, J.; Qin, T.; Yang, B. Short-Term Power Load Forecasting Based on PSO-Optimized VMD-TCN-Attention Mechanism. Energies 2023, 16, 4616. https://doi.org/10.3390/en16124616
+
+AMA Style
+Geng G, He Y, Zhang J, Qin T, Yang B. Short-Term Power Load Forecasting Based on PSO-Optimized VMD-TCN-Attention Mechanism. Energies. 2023; 16(12):4616. https://doi.org/10.3390/en16124616
+
+Chicago/Turabian Style
+Geng, Guanchen, Yu He, Jing Zhang, Tingxiang Qin, and Bin Yang. 2023. "Short-Term Power Load Forecasting Based on PSO-Optimized VMD-TCN-Attention Mechanism" Energies 16, no. 12: 4616. https://doi.org/10.3390/en16124616
+
+APA Style
+Geng, G., He, Y., Zhang, J., Qin, T., & Yang, B. (2023). Short-Term Power Load Forecasting Based on PSO-Optimized VMD-TCN-Attention Mechanism. Energies, 16(12), 4616. https://doi.org/10.3390/en16124616

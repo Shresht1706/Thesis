@@ -1,0 +1,11 @@
+Qiantong Zheng, Yubao Liu, Tingting Gu,
+Wind power forecasting with a VMD-LSTM-informer hybrid deep learning model,
+Energy and AI,
+Volume 24,
+2026,
+100765,
+ISSN 2666-5468,
+https://doi.org/10.1016/j.egyai.2026.100765.
+(https://www.sciencedirect.com/science/article/pii/S2666546826000911)
+Abstract: The integration of wind power systems into power grids poses operational challenges due to the inherent intermittency of wind power generation. Accurate wind power prediction can help mitigate these problems and improve grid reliability. This study introduces an innovative wind power forecasting architecture, VMD-HybridNet, which can enhance wind power forecast accuracies across multiple forecast horizons. VMD-HybridNet disentangles complex wind power signals into predictable trend and fluctuation components with Variational Mode Decomposition (VMD) and applies a dual-path learning strategy. Specialized experts—an LSTM for long-term trend and an LSTM-Informer for transient volatility—are configured to achieve a hierarchical feature fusion that significantly enhances the robustness of the final aggregated forecast. The results show that VMD-HybridNet outperforms all benchmark models for 15 min, 30 min, 1 h, and 2 h ahead forecasts. For a 2000 kW wind turbine, the VMD-HybridNet achieves an MAE of 60.2 kW for 2 h ahead forecasts, which is 73.94% lower than the average of the simple machine learning models (linear regression, support vector regression, and LightGBM), and 71.84% lower than the average of the deep learning models (LSTM, Transformer, Informer, and LSTM-Informer). Furthermore, VMD-HybridNet outperforms the VMD-driven standalone deep learning models (VMD-LSTM, VMD-Transformer, VMD-Informer and VMD-LSTM-Informer) by 14.94% on the average MAE. These results indicate that the VMD-HybridNet effectively enhances 0–2 h operational wind power forecasting accuracy.
+Keywords: Wind power forecasting; Variational mode decomposition; Long short-term memory; Informer; Hybrid model; Deep learning

@@ -1,0 +1,11 @@
+Huifeng Xu, Feihu Hu, Xinhao Liang, Guoqing Zhao, Mohammad Abugunmi,
+A framework for electricity load forecasting based on attention mechanism time series depthwise separable convolutional neural network,
+Energy,
+Volume 299,
+2024,
+131258,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2024.131258.
+(https://www.sciencedirect.com/science/article/pii/S0360544224010314)
+Abstract: Electricity load exhibits daily and weekly cyclical patterns as well as random characteristics. At present, prevailing deep learning models cannot learn electricity load cyclical and stochastic features adequately. This results in insufficient prediction accuracy and the scalability of current methods. To tackle these difficulties, this paper proposes a framework for electrical load prediction based on an Attention Mechanism Time Series Depthwise Separable Convolutional Neural Network (ELPF-ATDSCN). The framework starts by using the Maximum Information Coefficient for exogenous variable selection. It then incorporates a seasonal decomposition algorithm with manual feature engineering to extract the cyclical and stochastic features of the electrical load. Subsequently, the framework employs the ATDSCN to learn the cyclical and stochastic features of the electrical load. In addition, the Bayesian algorithm optimizes model hyperparameters for optimal model performance. Experimental results of point and interval load prediction on datasets from the US and Nordic power markets reveal that the ATDSCN model proposed in this paper enhances load prediction accuracy compared with other models. It can provide more reliable predictions for power system operation and dispatch.
+Keywords: Electricity load forecasting; Feature selection; Time series decomposition; Attention mechanism; Deep neural network

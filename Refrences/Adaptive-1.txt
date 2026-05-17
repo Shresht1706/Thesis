@@ -1,0 +1,11 @@
+Guomin Xie, Zijian Zhang, Sen Xie, Zhaowei Yuan, Hao Liu, Jiahao Li,
+A dual-path forecasting strategy for photovoltaic power with adaptive feature weighting and multi-scale attention,
+International Journal of Electrical Power & Energy Systems,
+Volume 174,
+2026,
+111474,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2025.111474.
+(https://www.sciencedirect.com/science/article/pii/S0142061525010221)
+Abstract: Photovoltaic (PV) power generation is a widely adopted sustainable energy technology. Due to its complex operation nonlinear, and non-stationary characteristics, accurate forecasting of PV power poses challenges. In this paper, a dual-path forecasting strategy for photovoltaic power with adaptive feature weighting and multi-scale attention is developed. Firstly, through an improved variational mode decomposition with an integrated error correction (ECVMD) mechanism, the PV power signal is decomposed into intrinsic mode functions (IMFs) that contain both low-complexity and high-complexity components. Moreover, low-complexity components are forecasted using a lightweight-designed adaptive feature-weighted inspired Informer (AFWformer) model. Meanwhile, high-complexity components are modeled using a Transformer inspired by time–frequency multi-scale (TFMformer). Via the cross-attention mechanism, temporal-domain and frequency-domain features are integrated, and a multi-scale attention module is utilized to capture dynamic features. Besides, the hyperparameters of the model are automatically tuned under different conditions by the Bayesian optimization. The experimental results show that, across three PV plants and diverse weather conditions, the proposed strategy achieves MAE of 0.48–1.36, RMSE of 0.69–1.99, and R2 of 0.973–0.991, evidencing consistently high accuracy across settings.
+Keywords: Photovoltaic power forecasting; Dual-path forecasting model; Adaptive feature weighting; Time-frequency multi-scale Transformer; Bayesian optimization

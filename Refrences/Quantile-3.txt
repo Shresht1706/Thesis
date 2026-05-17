@@ -1,0 +1,11 @@
+Wei Zhang, Hongyi Zhan, Hang Sun, Mao Yang,
+Probabilistic load forecasting for integrated energy systems based on quantile regression patch time series Transformer,
+Energy Reports,
+Volume 13,
+2025,
+Pages 303-317,
+ISSN 2352-4847,
+https://doi.org/10.1016/j.egyr.2024.11.057.
+(https://www.sciencedirect.com/science/article/pii/S2352484724007777)
+Abstract: Accurate multi-energy load forecasting is crucial for optimizing the operation of integrated energy systems and enhancing energy management efficiency. This paper proposes a novel probabilistic multi-energy load forecasting model that combines quantile regression with the patch time series Transformer (QR-PatchTST). This model effectively addresses the complex coupling relationships between multi-energy load and quantifies forecast uncertainties. First, the QR-PatchTST divides multivariate time series data into multiple univariate datasets and segments each into numerous patches, effectively preserving local features and capturing temporal dependencies. Then, the model introduces a multi-head attention mechanism to extract complex coupling relationships in the multi-energy load data. Additionally, to consider the uncertainty in multi-energy load forecasting, the PatchTST model incorporates a pinball loss, enabling probabilistic forecasting through quantile regression. Experimental results show that the WMAPE values for forecasting three types of loads based on the QR-PatchTST model are 2.29 %, representing a reduction of 34.9–46.6 % compared to benchmark models. Furthermore, under various confidence intervals, the average ACE and AW for cooling, heating, and electricity loads using the QR-PatchTST model are lower than those of other comparative models, providing more accurate and reliable prediction intervals. The model is validated using an integrated energy system dataset from Arizona State University's Tempe campus, demonstrating superior forecasting capability compared to other models.
+Keywords: Integrated energy system; Multi-energy load forecasting; Probabilistic forecasting; Quantile regression

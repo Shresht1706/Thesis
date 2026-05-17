@@ -1,0 +1,11 @@
+Fu Liu, Tian Dong, Qiaoliang Liu, Yun Liu, Shoutao Li,
+Combining fuzzy clustering and improved long short-term memory neural networks for short-term load forecasting,
+Electric Power Systems Research,
+Volume 226,
+2024,
+109967,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2023.109967.
+(https://www.sciencedirect.com/science/article/pii/S0378779623008556)
+Abstract: Short-term load forecasting (STLF) is a critical component of smart grid operations, yet it is a challenging task due to the high uncertainty of electrical loads. This paper proposes a novel STLF model by combining the fuzzy c-means (FCM) clustering and an improved long short-term memory (LSTM) neural network. The load profiles of two consecutive days are extracted as a single sample and their dimension is reduced by principal component analysis (PCA). The FCM clustering algorithm is then used to group the load profiles into similar patterns from a historical load data set. For each pattern, an LSTM-based forecaster is constructed and optimized using the load profiles that belong to it. The periodicity of the load profiles at the same time of two days is taken into account when designing the forecaster, resulting in a new LSTM model. The experimental results on two commonly used electrical load data sets demonstrate superior effectiveness and performance compared to other models in terms of the MAPE metric.
+Keywords: Short-term load forecasting; Clustering; LSTM; Fuzzy c-means

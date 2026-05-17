@@ -1,0 +1,11 @@
+Pei Du, Fangrui Gui, Lijie Shan, Qianyi Xing, Jianzhou Wang,
+Probabilistic forecasting of non-ferrous metal prices based on outlier treatment algorithms, quantile regression based deep learning and two-phase multi-objective optimization,
+Engineering Applications of Artificial Intelligence,
+Volume 161, Part C,
+2025,
+112277,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2025.112277.
+(https://www.sciencedirect.com/science/article/pii/S0952197625022857)
+Abstract: Accurate forecasting of non-ferrous metal prices plays a crucial role in helping enterprises optimize production, control costs, and manage risks, as well as in enabling countries and industries to formulate resource strategies, ensure economic security, and promote sustainable development. However, existing research still has limitations in outlier detection, uncertainty analysis, and model optimization, making it difficult to meet the forecasting needs in complex market environments. To fill these gaps, this study proposes a novel combined probabilistic forecasting framework for non-ferrous metal prices. First, this study utilizes outlier treatment algorithms to achieve robust outlier detection and correction. Second, multiple quantile regression-based deep learning models are established for probabilistic forecasting. Subsequently, a two-phase multi-objective optimization strategy is proposed. Specifically, the first phase is designed to optimize the upper quantile half-interval and lower quantile half-interval of each quantile regression-based deep learning model, while the second phase is used to optimize the combined weights of the aforementioned single model to synergistically enhance interval reliability and prediction accuracy. Finally, silver and aluminum futures prices are used as illustrative case studies. The experimental results show that the proposed model outperforms the benchmark method in terms of interval coverage and prediction accuracy. This study provides a scientific basis and reference for industrial production optimization, investment decision-making and resource management planning.
+Keywords: Probabilistic forecasting; Non-ferrous metal prices forecasting; Outlier treatment; Deep learning; Two-phase multi-objective optimization

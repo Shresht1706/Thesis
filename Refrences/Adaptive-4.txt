@@ -1,0 +1,11 @@
+Dung Nguyen, Van-Dung Hoang, Van-Tuong-Lan Le,
+Towards enhancing learning on imbalanced data: A novel adaptive weighting strategy,
+Neurocomputing,
+Volume 673,
+2026,
+132886,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2026.132886.
+(https://www.sciencedirect.com/science/article/pii/S0925231226002833)
+Abstract: In recent years, deep learning has made significant progress, contributing to the improved performance of computer vision tasks such as classification and object detection. Representative models such as Convolutional Neural Networks (CNNs) and Transformers have played a key role in this development. These models have been widely applied and have shown high effectiveness in image recognition tasks. However, data imbalance remains a considerable challenge, as models tend to focus excessively on easy samples while overlooking hard or infrequent ones. To address this issue, the Focal Loss function was introduced to down-weight easy samples and enhance the learning of harder ones through predefined parameters. Nevertheless, keeping these parameters fixed throughout the training process may not be optimal, as their suitable values can vary depending on the training stage and dataset characteristics. To overcome this limitation, this paper proposes an adaptive weighting strategy in which the parameters are dynamically adjusted across different training stages. Experimental results show that the proposed method not only improves the detection of hard samples but also enhances the overall performance of the model on imbalanced datasets. These results suggest that dynamically adjusting loss parameters is an effective approach for addressing data imbalance in deep learning models.
+Keywords: Focal loss; Imbalanced datasets; Deep learning; Convolutional neural networks; Transformer

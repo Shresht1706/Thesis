@@ -1,0 +1,11 @@
+Yusen Wu, Wenbin Sun, Qing Li,
+Power load forecasting and anomaly detection using a two-stage attention mechanism and deep neural networks,
+Electric Power Systems Research,
+Volume 249,
+2025,
+112056,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2025.112056.
+(https://www.sciencedirect.com/science/article/pii/S0378779625006443)
+Abstract: With the increasing complexity of smart grids and the widespread integration of renewable energy sources, accurate power load forecasting and timely anomaly detection have become critical to ensuring grid stability and efficiency. Traditional methods often struggle with the nonlinear and non-stationary characteristics of high-resolution load data, highlighting the need for more adaptive and intelligent solutions. To address these challenges, this study proposes a novel DA-LSTM framework that integrates Ensemble Empirical Mode Decomposition (EEMD) with a two-stage attention mechanism. The EEMD decomposes raw load signals into multi-frequency components, which are then fused with the original data using temporal and feature-level attention modules. This enhances the model’s ability to learn complex temporal dynamics and inter-feature relationships. Anomaly detection is achieved through residual analysis between predictions and actual values, followed by a sliding-window-based statistical feature extraction and classification using XGBoost. Experimental results on two benchmark datasets, GEFCom2014 and PJM, demonstrate that the proposed DA-LSTM significantly outperforms baseline models such as CP-LSTM, ESN, and ResNetPlus in terms of MAE, RMSE, and MAPE. Moreover, the anomaly detection module achieves over 90 % classification accuracy, confirming its effectiveness and robustness. These findings indicate that the proposed framework provides a comprehensive and reliable solution for enhancing predictive accuracy and operational intelligence in modern smart grid systems.
+Keywords: Anomalsy detection; Electricity prediction; LSTM; Deep learning

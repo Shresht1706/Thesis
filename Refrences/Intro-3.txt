@@ -1,0 +1,17 @@
+AUTHOR=Zheng Qianyun , Zheng Jianyong , Mei Fei , Gao Ang , Zhang Xi , Xie Yang 
+  
+TITLE=TCN-GAT multivariate load forecasting model based on SHAP value selection strategy in integrated energy system
+  
+JOURNAL=Frontiers in Energy Research
+  
+VOLUME=Volume 11 - 2023
+  
+YEAR=2023
+  
+URL=https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2023.1208502
+  
+DOI=10.3389/fenrg.2023.1208502
+  
+ISSN=2296-598X
+  
+ABSTRACT=Load forecasting is an important prerequisite and foundation for ensuring the rational planning and safe operation of integrated energy systems. In view of the interactive coupling problem among multivariate loads, this paper constructs a TCN-GAT multivariate load forecasting model based on SHAP (Shapley Additive Explanation) value selection strategy. The model uses temporal convolutional networks (TCN) to model the multivariate load time series of the integrated energy system, and applies the global attention mechanism (GAT) to process the output of the network hidden layer state, thereby increasing the weight of key features that affect load changes. The input variables are filtered by calculating the SHAP values of each feature, and then returned to the TCN-GAT model for training to obtain multivariate load forecasting results. This can remove the interference of features with low correlation to the model and improve the forecasting effect. The analysis results of practical examples show that compared with other models, the TCN-GAT multivariate load forecasting model based on SHAP value selection strategy proposed in this paper can further reduce the forecasting error and has better forecasting accuracy and application value.

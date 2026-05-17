@@ -1,0 +1,17 @@
+AUTHOR=Liu Yujiao , Li Yan , Li Guoliang , Lin Yuqing , Wang Ruiqi , Fan Yunpeng 
+  
+TITLE=Review of multiple load forecasting method for integrated energy system
+  
+JOURNAL=Frontiers in Energy Research
+  
+VOLUME=Volume 11 - 2023
+  
+YEAR=2023
+  
+URL=https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2023.1296800
+  
+DOI=10.3389/fenrg.2023.1296800
+  
+ISSN=2296-598X
+  
+ABSTRACT=In order to further improve the efficiency of energy utilization, Integrated Energy Systems (IES) connect various energy systems closer, which has become an important energy utilization mode in the process of energy transition. Because the complex and variable multiple load is an important part of the new power system, the load forecasting is of great significance for the planning, operation, control, and dispatching of the new power system. In order to timely track the latest research progress of the load forecasting method and grasp the current research hotspot and the direction of load forecasting, this paper reviews the relevant research content of the forecasting methods. Firstly, a brief overview of IES and load forecasting is provided. Secondly, traditional forecasting methods based on statistical analysis and intelligent forecasting methods based on machine learning are discussed in two directions to analyze the advantages, disadvantages, and applicability of different methods. Then, the results of IES multiple load forecasting for the past five years are compiled and analyzed. Finally, the IES load forecasting is summarized and looked forward.

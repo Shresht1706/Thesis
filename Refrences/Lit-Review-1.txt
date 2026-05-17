@@ -1,0 +1,11 @@
+Su Chen, Ye Cai, Yilong Shen,
+Regional electricity consumption forecasting with a cross-regional joint learning framework based on N-BEATS,
+Electric Power Systems Research,
+Volume 260,
+2026,
+113290,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2026.113290.
+(https://www.sciencedirect.com/science/article/pii/S0378779626005833)
+Abstract: Electricity is a fundamental energy carrier underpinning industrial production and social welfare. Accurate forecasting of provincial-level annual electricity consumption is crucial for mitigating demand fluctuation risks and optimizing inter-provincial market operations. However, annual electricity consumption data typically features short sequences and nonlinear couplings, posing challenges for conventional deep learning models that require large-scale datasets. Existing studies often neglect these characteristics and the joint effects of multi-dimensional covariates, focusing instead on isolated regions. To address these limitations, this study proposes a forecasting framework based on the N-BEATS model, specifically utilizing its trend decomposition and iterative residual learning capabilities. By integrating multi-dimensional covariates (energy, economic, and social factors) across multiple provinces, the proposed model fully exploits the long-term temporal patterns and regional heterogeneity embedded in panel data. Empirical results demonstrate that N-BEATS consistently outperforms benchmark models, achieving an average MAPE of 9.49% (24.1% lower than Transformer) and an average SMAPE of 9.09%. Furthermore, the results highlight that convolution-based models (e.g., TCN) struggle to capture long-term dependencies in limited-sample scenarios, whereas N-BEATS effectively extracts trend components via residual learning. Overall, this study provides a robust solution for provincial electricity planning and offers insights into cross-regional consumption patterns.
+Keywords: Electricity consumption forecasting; N-BEATS; Long-term time series prediction; Multi-regional panel data; Exogenous variables; Cross-regional joint learning

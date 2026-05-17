@@ -1,0 +1,10 @@
+@ARTICLE{10812345,
+  author={Chebotarev, Pavel and Gubanov, Dmitry A.},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={How to Choose the Most Appropriate Centrality Measure? A Decision-Tree Approach}, 
+  year={2025},
+  volume={55},
+  number={3},
+  pages={1694-1706},
+  keywords={Surveys;Weight measurement;Training;Principal component analysis;Indexes;Hands;Correlation;Time measurement;Taxonomy;Stars;Axiomatic approach;centrality measure;decision tree;network},
+  doi={10.1109/TSMC.2024.3510633}}

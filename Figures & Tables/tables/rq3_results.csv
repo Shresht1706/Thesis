@@ -1,0 +1,8 @@
+Metric,Symbol,Value
+Median Forecast MAE,MAE(P50),0.012525999918580055
+Median Forecast RMSE,RMSE(P50),0.015653999522328377
+Prediction Interval Coverage (P10–P90),PICP,0.697442
+Average Prediction Interval Width,MPIW,0.034352999180555344
+Average P10 Forecast,Mean(P10),0.39413198828697205
+Average P50 Forecast,Mean(P50),0.4070320129394531
+Average P90 Forecast,Mean(P90),0.4284850060939789

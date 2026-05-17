@@ -1,0 +1,11 @@
+Jun Lin, Jin Ma, Jianguo Zhu, Yu Cui,
+Short-term load forecasting based on LSTM networks considering attention mechanism,
+International Journal of Electrical Power & Energy Systems,
+Volume 137,
+2022,
+107818,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2021.107818.
+(https://www.sciencedirect.com/science/article/pii/S0142061521010346)
+Abstract: Reliable and accurate zonal electricity load forecasting is essential for power system operation and planning. Probabilistic load forecasts can present more comprehensive information for decision-making processes by quantifying the uncertainties of the electric load. A suitable feature selection is a critical step in forecasting, especially for data-driven methods. Weather conditions are another major factor related to electricity demand and play an important role in load forecasting. In this paper, we propose a dual-stage attention based long short-term memory (LSTM) network for short-term zonal load probabilistic forecasting. In the first stage, a feature attention based encoder is built to calculate the correlation of input features with electricity load at each time step. The most relevant input features can be adaptively selected. In the second stage, a temporal attention based decoder is developed to mine the time dependencies. Then, an LSTM model integrates these attention results and the probabilistic forecasts can be obtained using a pinball loss function. We also discuss how the proposed method can be utilized for feature and weather station selection. The effectiveness of the proposed method for both point and probabilistic forecasting is adequately verified on an open dataset of GEFCom2014, showing higher accuracy and generalization ability over other state-of-the-art forecasting models.
+Keywords: Short-term load forecasting; Probabilistic load forecasting; Long short-term memory network; Pinball loss function; Attention mechanism

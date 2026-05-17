@@ -1,0 +1,17 @@
+AUTHOR=Wang Ye , Jiang Wenshuai , Wang Chong , Song Qiong , Zhang Tingting , Dong Qi , Li Xueling 
+  
+TITLE=An electricity load forecasting model based on multilayer dilated LSTM network and attention mechanism
+  
+JOURNAL=Frontiers in Energy Research
+  
+VOLUME=Volume 11 - 2023
+  
+YEAR=2023
+  
+URL=https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2023.1116465
+  
+DOI=10.3389/fenrg.2023.1116465
+  
+ISSN=2296-598X
+  
+ABSTRACT=From national development to daily life, electric energy is integral to people's lives. Although the development of electricity should be expected, expansion without restriction will only result in energy waste. The forecasting of electricity load plays an important role in the adjustment of power enterprises' strategies and the stability of power operation. Recently, the electricity-related data acquisition system has been perfected, and the available load information has gradually reached the minute level. This means that the related load series lengthens and the time and spatial information of load become increasingly complex. In this paper, a load forecasting model based on multilayer dilated long and short-term memory neural network is established. The model uses a multilayer dilated structure to extract load information from long series and to extract information from different dimensions. Moreover, the attention mechanism is used to make the model pay closer attention to the key information in the series as an intermediate variable. Such structures can greatly alleviate the loss in the extraction of long time series information and make use of more valid historical information for future load forecasting. The proposed model is validated using two real datasets. According to load forecasting curves, error curve, and related indices, the proposed method is more accurate and stable in electricity load forecasting than the comparison methods.

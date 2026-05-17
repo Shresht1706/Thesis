@@ -1,0 +1,11 @@
+V. Dordonnat, A. Pichavant, A. Pierrot,
+GEFCom2014 probabilistic electric load forecasting using time series and semi-parametric regression models,
+International Journal of Forecasting,
+Volume 32, Issue 3,
+2016,
+Pages 1005-1011,
+ISSN 0169-2070,
+https://doi.org/10.1016/j.ijforecast.2015.11.010.
+(https://www.sciencedirect.com/science/article/pii/S0169207015001491)
+Abstract: This paper describes the forecasting methodology used by the team ADADA in the load forecasting track of GEFCom2014. The approach includes a semi-parametric regression model for point load forecasting, a multivariate time series simulation model for temperature forecasting, and a resampling strategy for building probabilistic forecasts from point load forecast residuals.
+Keywords: Electric load forecasting; Semi-parametric regression; Temperature simulation; Probabilistic forecasting

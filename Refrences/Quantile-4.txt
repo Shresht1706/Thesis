@@ -1,0 +1,11 @@
+Han Guo, Bin Huang, Jianhui Wang,
+Probabilistic load forecasting for integrated energy systems using attentive quantile regression temporal convolutional network,
+Advances in Applied Energy,
+Volume 14,
+2024,
+100165,
+ISSN 2666-7924,
+https://doi.org/10.1016/j.adapen.2024.100165.
+(https://www.sciencedirect.com/science/article/pii/S2666792424000039)
+Abstract: The burgeoning proliferation of integrated energy systems has fostered an unprecedented degree of coupling among various energy streams, thereby elevating the necessity for unified multi-energy forecasting (MEF). Prior approaches predominantly relied on independent predictions for heterogeneous load demands, overlooking the synergy embedded within the dataset. The two principal challenges in MEF are extracting the intricate coupling correlations among diverse loads and accurately capturing the inherent uncertainties associated with each type of load. This study proposes an attentive quantile regression temporal convolutional network (QTCN) as a probabilistic framework for MEF, featuring an end-to-end predictor for the probabilistic intervals of electrical, thermal, and cooling loads. This study leverages an attention layer to extract correlations between diverse loads. Subsequently, a QTCN is implemented to retain the temporal characteristics of load data and gauge the uncertainties and temporal correlations of each load type. The multi-task learning framework is deployed to facilitate simultaneous regression of various quantiles, thereby expediting the training progression of the forecasting model. The proposed model is validated using realistic load data and meteorological data from the Arizona State University metabolic system and National Oceanic and Atmospheric Administration respectively, and the results indicate superior performance and greater economic benefits compared to the baselines in existing literature.
+Keywords: Attention mechanism; Load forecasting; Multi-task learning; Probabilistic forecasting; Temporal convolutional network

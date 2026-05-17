@@ -1,0 +1,11 @@
+Wenqing Zhao, Zhenhuan Zhao, Minfu Xu, Yingxue Ding, Jiaxiao Gong,
+Differential multimodal fusion algorithm for remote sensing object detection through multi-branch feature extraction,
+Expert Systems with Applications,
+Volume 265,
+2025,
+125826,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2024.125826.
+(https://www.sciencedirect.com/science/article/pii/S0957417424026939)
+Abstract: Object detection through remote sensing imagery presents challenges such as a high proportion of small objects and inadequate detectability of objects in low-light environments. Despite advancements in existing methods, these challenges persist. To address them, this paper introduces MMFDet, a differential multimodal fusion algorithm for remote sensing object detection through multi-branch feature extraction. MMFDet leverages multimodal data differences and complementary features to address these issues. The proposed algorithm comprises a multi-branch feature extraction structure, a multimodal difference complement module (MDCM), and a high-level feature split hybrid module (HFSHM). First, the multi-branch feature extraction structure extracts features from different modalities, adapting to small objects through branch structure adjustments. Second, the MDCM leverages inter-modality differences to enhance the sensitivity to complementary features, addressing low-light detection challenges. Additionally, the high-level feature split hybrid module improves small object detection accuracy by splitting and hybridizing multimodal features, enabling enhanced feature integration. Experiments conducted on the VEDAI and Drone Vehicle datasets demonstrate a 14.7% and 11.1% average precision improvement over the baseline algorithm, respectively. Furthermore, compared to traditional and other multimodal remote sensing object detection algorithms, MMFDet achieves significantly superior average precision.
+Keywords: Multimodal; Remote sensing image; Object detection; Complementary information; Low-light; Small objects

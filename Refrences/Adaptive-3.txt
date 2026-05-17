@@ -1,0 +1,11 @@
+Jiawei Zhang, Lisheng Wu, Qiang Fang, Weidong Yu, Zhengyu Hu, Fengyun Zhang, Cheng Yang, Xiaoqing Zhang,
+Region-based weighting-and-enhancement network with adaptive class weighting loss for postoperative inguinal hernia prediction,
+Engineering Applications of Artificial Intelligence,
+Volume 162, Part C,
+2025,
+112451,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2025.112451.
+(https://www.sciencedirect.com/science/article/pii/S0952197625024820)
+Abstract: Postoperative inguinal hernia (PIH) is a common complication after radical prostatectomy, subsequently leading to multiple potential risks (e.g., cardiovascular and cerebrovascular accidents) and increased surgical costs due to re-surgical reparation. Magnetic resonance imaging (MRI) examination is a widely used procedure before radical prostatectomy, which can investigate the muscle structures of the abdominal wall (MSAW). Recently, clinical studies have indicated that clinical parameters (e.g., thickness and width of the external oblique muscle) of MSAW are strongly related to PIH. However, automated MRI-based PIH prediction based on deep neural networks has not been studied previously. Motivated by these observations, we propose a novel region-based weighting-and-enhancement network to predict PIH before radical prostatectomy based on MRI images automatically. Specifically, we employ the well-designed Region Weighting-and-Enhancement module to capture informative context representations through region weighting and regional context enhancement, by fully leveraging the potential of clinical MSAW priori. Additionally, this paper designs an effective adaptive class weighting loss to emphasize or suppress the samples with varying levels of significance to further boost the PIH prediction performance. The extensive experiments on a clinical MRI-PIH dataset and one publicly available MRI dataset manifest the superiority of our proposed methods over state-of-the-art deep neural networks and advanced loss methods.
+Keywords: Postoperative inguinal hernia prediction; Magnetic resonance imaging; Region-based weighting-and-enhancement network; Adaptive class weighting loss

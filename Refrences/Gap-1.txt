@@ -1,0 +1,11 @@
+Tao Hong, Pierre Pinson, Shu Fan, Hamidreza Zareipour, Alberto Troccoli, Rob J. Hyndman,
+Probabilistic energy forecasting: Global Energy Forecasting Competition 2014 and beyond,
+International Journal of Forecasting,
+Volume 32, Issue 3,
+2016,
+Pages 896-913,
+ISSN 0169-2070,
+https://doi.org/10.1016/j.ijforecast.2016.02.001.
+(https://www.sciencedirect.com/science/article/pii/S0169207016000133)
+Abstract: The energy industry has been going through a significant modernization process over the last decade. Its infrastructure is being upgraded rapidly. The supply, demand and prices are becoming more volatile and less predictable than ever before. Even its business model is being challenged fundamentally. In this competitive and dynamic environment, many decision-making processes rely on probabilistic forecasts to quantify the uncertain future. Although most of the papers in the energy forecasting literature focus on point or single-valued forecasts, the research interest in probabilistic energy forecasting research has taken off rapidly in recent years. In this paper, we summarize the recent research progress on probabilistic energy forecasting. A major portion of the paper is devoted to introducing the Global Energy Forecasting Competition 2014 (GEFCom2014), a probabilistic energy forecasting competition with four tracks on load, price, wind and solar forecasting, which attracted 581 participants from 61 countries. We conclude the paper with 12 predictions for the next decade of energy forecasting.
+Keywords: Electric load forecasting; Electricity price forecasting; Wind power forecasting; Solar power forecasting; Probabilistic forecasting; Forecasting competition

@@ -1,0 +1,11 @@
+Chunze Xiao, Fazel Khayatian, Giuliano Dall'O',
+Unsupervised learning for feature projection: Extracting patterns from multidimensional building measurements,
+Energy and Buildings,
+Volume 224,
+2020,
+110228,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2020.110228.
+(https://www.sciencedirect.com/science/article/pii/S0378778820304412)
+Abstract: Data visualization is an important resource for decision makers to obtain information from large datasets. Based on the data obtained from either predictions or measurements, different strategies are combined and tested to reduce the energy demand, whilst keeping the indoor comfort at suitable level. Although the information expressed from data representation can significantly influence the decisions, little research has focused on extracting features from building measurements. This paper provides an in-depth view into representation of building data, and applies three dimensionality reduction algorithms Principle Component Analysis (PCA), autoencoder and t-Distributed Stochastic Neighbour Embedding (t-SNE) on measurements from a teaching building. Results show that whilst PCA returns linear representations, it also has the least data compression, which can be useful for obtaining more general features. On the other hand, t-SNE returns the most compressed data, which is suitable for seeking large margins within a dataset. However, t-SNE may be unsuitable for datasets with recurring step-like temporal profiles. Autoencoder is the best overall option, as they capture the nonlinearities within a dataset whilst avoiding excessive data compression. Fine-tuning the hyperparameters of studied the algorithms, and the perils of relying on poorly tuned models is discussed at the end of the study.
+Keywords: Unsupervised learning; Building performance; Dimensionality reduction; Data representation

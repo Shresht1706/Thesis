@@ -1,0 +1,3 @@
+Model,Precision,Recall
+Baseline,0.728219696969697,0.9783715012722646
+Adaptive + Quantile,0.5431928127159641,1.0

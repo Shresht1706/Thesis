@@ -1,0 +1,11 @@
+Yingjun Shen, Chen Yang, Zhe Song, Guoyuan Liang,
+Multi-horizon building load forecasting with an LSTM encoder and a Temporal Kolmogorov–Arnold Network,
+Sustainable Cities and Society: Advances,
+Volume 2, Issue 2,
+2026,
+100065,
+ISSN 3051-052X,
+https://doi.org/10.1016/j.scsadv.2026.100065.
+(https://www.sciencedirect.com/science/article/pii/S3051052X26000434)
+Abstract: Accurate medium- to long-horizon building load forecasting is essential for operational planning, yet remains difficult due to non-stationary occupancy patterns and nonlinear building dynamics. We propose LSTM-T-KAN, a direct multi-horizon forecasting framework that combines a Long Short-Term Memory (LSTM) encoder with a Temporal Kolmogorov–Arnold Network (T-KAN) prediction head. To provide deployable and informative inputs, we design a horizon-adaptive multi-source feature pipeline that fuses calendar variables, weather signals, load-profile statistics, and time–frequency descriptors, followed by correlation screening, recursive feature elimination, and greedy horizon-specific selection to construct compact task-specific feature subsets. The LSTM encoder captures temporal context, and the T-KAN head replaces conventional linear or multilayer perceptron (MLP) decoders with interpretable spline-based univariate edge functions for direct trajectory prediction. Experiments on a real-world office-building dataset with hourly resolution and 1–30 day horizons show that LSTM-T-KAN consistently outperforms strong baselines in both univariate and multivariate settings. Relative to the strongest competing model at each reported horizon, it reduces mean absolute error (MAE) by 1.0%–11.7% in the load-only setting and by 5.9%–12.6% under multi-source inputs. Compared with the load-only configuration, the proposed feature pipeline further reduces the MAE of LSTM-T-KAN by 2.2%–11.1%. Integrated Gradients, SHAP comparison, and edge-wise spline inspection further reveal transparent attributions and nonlinear response patterns, supporting operation-oriented decision.
+Keywords: Load forecasting; Direct multi-horizon prediction; Kolmogorov–Arnold Network (KAN); Feature fusion; Building energy management

@@ -1,0 +1,11 @@
+Kunhao Niu, Chun Yang, Xia Meng, Zhi Cheng, Mingfu Tang,
+Spatiotemporal load forecasting method for electric vehicle based on GAT-LSTM-transformer,
+Electric Power Systems Research,
+Volume 258,
+2026,
+113161,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2026.113161.
+(https://www.sciencedirect.com/science/article/pii/S0378779626004542)
+Abstract: Electric Vehicle (EV) serves as a key carrier for achieving the “dual carbon” goals. However, the surge in disorderly charging loads poses a serious threat to power grid stability, while existing forecasting approaches still fail to effectively capture the complex spatiotemporal dependencies of EV loads, leading to insufficient prediction accuracy. To address this issue, a spatiotemporal load forecasting method based on Graph Attention Networks (GAT), Long Short-Term Memory (LSTM), and Transformer, termed GAT-LSTM-Transformer (GLT), is proposed. First, the Maximal Information Coefficient (MIC) is used to select key factors strongly correlated with EV charging loads, thereby reducing the input dimensionality and improving model efficiency. Then, the GAT module is employed to capture spatial dependencies among charging nodes. Next, the LSTM is utilized to capture the temporal characteristics of EV load data and learn short-term fluctuations as well as periodic patterns. Finally, the Transformer network is introduced to enhance the modeling of global temporal dependencies. Experimental results demonstrate that the proposed GLT model effectively captures the spatiotemporal coupling characteristics of EV loads. When combined with MIC-based feature selection, it achieves higher forecasting accuracy compared with existing methods.
+Keywords: EV load forecasting; Deep learning model; Maximal information coefficient; Transformer
